@@ -1,0 +1,29 @@
+html, body {
+
+	background-color: gray;
+	font-family: 'Roboto Mono', monospace;
+
+}
+
+h1 {
+
+	font-size: 30px;
+	color: #F5F5F5;
+
+}
+
+p {
+
+	color: linen;
+
+}
+
+#shape {
+
+	width: 200px;
+	height: 200px;
+	background-color: #800000;
+	display: none;
+	position: relative;
+
+}
